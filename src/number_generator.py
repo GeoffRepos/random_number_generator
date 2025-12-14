@@ -1,5 +1,5 @@
 """
-A simple, well-commented random number generator.
+A random number generator.
 
 This script can:
 - Generate a single random integer in a range
