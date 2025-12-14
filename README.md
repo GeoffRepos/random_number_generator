@@ -1,6 +1,6 @@
 # Random Number Generator
 
-A simple, well-commented Python random number generator. Generates integers or floats within a range, with a small CLI and importable functions.
+A simple Python random number generator. Generates integers or floats within a range, with a small CLI and importable functions.
 
 ## Features
 - Generate a single integer or float
